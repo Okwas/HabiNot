@@ -1,0 +1,12 @@
+{
+  "name": "habi-not",
+  "displayName": "habi-not",
+  "expo": {
+    "name": "habi-not",
+    "slug": "habi-not",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
